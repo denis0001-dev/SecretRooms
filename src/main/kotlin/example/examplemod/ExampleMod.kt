@@ -18,6 +18,7 @@ import thedarkcolour.kotlinforforge.forge.runForDist
  *
  * An example for blocks is in the `blocks` package of this mod.
  */
+@Suppress("UNUSED_PARAMETER")
 @Mod(ExampleMod.ID)
 object ExampleMod {
     const val ID = "examplemod"
